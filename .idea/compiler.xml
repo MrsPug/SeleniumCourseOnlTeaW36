@@ -9,5 +9,8 @@
         <module name="SeleniumCourseOnlTeaW36" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SeleniumCourseOnlTeaW36" target="19" />
+    </bytecodeTargetLevel>
   </component>
 </project>
